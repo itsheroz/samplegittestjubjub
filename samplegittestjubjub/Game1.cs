@@ -13,6 +13,9 @@ namespace samplegittestjubjub
         int feature3;
         //update
 
+        //update playerJump
+        int feature4;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
