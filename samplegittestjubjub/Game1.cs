@@ -8,9 +8,7 @@ namespace samplegittestjubjub
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-        int feature1;
-        int feature2;
-        int feature3;
+        int feature1
 
         public Game1()
         {
